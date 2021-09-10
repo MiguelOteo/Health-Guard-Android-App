@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/activitySummary"
+        android:title="Activity summary"
+        android:icon="@drawable/icon_account">
+    </item>
+
+    <item
+        android:id="@+id/yourFriends"
+        android:title="Your friends"
+        android:icon="@drawable/icon_friends">
+    </item>
+
+    <item
+        android:id="@+id/competition"
+        android:title="Competition"
+        android:icon="@drawable/icon_competition">
+    </item>
+
+    <item
+        android:id="@+id/forums"
+        android:title="Online forums"
+        android:icon="@drawable/icon_forums">
+    </item>
+
+    <item
+        android:id="@+id/accountSettings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings_white">
+    </item>
+</menu>
