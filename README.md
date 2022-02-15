@@ -1,3 +1,3 @@
 # Health-Guard-Android-App
-## Telemedicine Project (Java 11)
+## Kotlin Project (Java 11)
 -------------------------------
