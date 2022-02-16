@@ -11,5 +11,5 @@ The rest API was created using the language PHP and runs on an apache server.
 
 ## About the repository
 
-This repository saves the kotlin files for the android application, which communicates with with a server.
+This repository contains the kotlin files for the android application for the user to access the data information stored in the server.
 
