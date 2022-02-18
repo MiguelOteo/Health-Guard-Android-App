@@ -2,14 +2,22 @@
 ## Kotlin Project
 
 -------------------------------
+
+### Index
+
+1. Introduction
+
+-------------------------------
 -------------------------------
 
-## Project description
+## 1. Introduction
 
-This project consists on the creation of an kotlin application which can communicate with an online server using HTTP protocol.
-The rest API was created using the language PHP and runs on an apache server.
+This is part of a project to create a health monitoring app for the phone, this repository contains all the files regarding the android application which allows the user to measure some physical parameters and compite with their friends.
 
-## About the repository
+### Project Repositories
 
-This repository contains the kotlin files for the android application for the user to access the data information stored in the server.
+1. Health-Guard-Android-App: https://github.com/MiguelOteo/Health-Guard-Android-App
+2. Health-Guard-Rest-API: https://github.com/MiguelOteo/Health-Guard-Rest-API
 
+-------------------------------
+-------------------------------
