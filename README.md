@@ -6,6 +6,7 @@
 ### Index
 
 1. Introduction
+2. Project set-up
 
 -------------------------------
 -------------------------------
@@ -21,3 +22,7 @@ This is part of a project to create a health monitoring app for the phone, this 
 
 -------------------------------
 -------------------------------
+
+## 2. Project set-up
+
+There should not be any steps regarding the project set-up apart form setting up the propper url of the server to connect to.
